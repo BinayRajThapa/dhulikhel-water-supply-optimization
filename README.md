@@ -41,7 +41,7 @@ The `haversine.py` script calculates the geographical distances between the foll
 
 These distances can be used as edge weights in a graph to find the MST, representing a cost-effective water pipeline network based on proximity.
 
---
+---
 
 ## 🧑‍🤝‍🧑 Population-Based MST
 
